@@ -1,3 +1,4 @@
+
 # anysee
 
 This is NodeJS Static Web server
@@ -19,3 +20,4 @@ anysee -h localhost # 设置 host 为 localhost
 
 anysee -d /usr # 设置根目录为 /usr
 ```
+
