@@ -3,6 +3,8 @@
 
 This is NodeJS Static Web server
 
+npm: https://www.npmjs.com/package/anysee
+
 ## 安装
 
 ```
