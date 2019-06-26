@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/wwb568109135/anySee.svg?branch=master)](https://travis-ci.org/wwb568109135/anySee)
 
 # anysee
 
