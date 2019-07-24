@@ -1,6 +1,6 @@
 {
     "name": "anysee",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "This is nodejs web server",
     "main": "src/app.js",
     "bin": {
